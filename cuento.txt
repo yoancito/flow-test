@@ -3,6 +3,13 @@ inicio
 Mamá Osa era de tamaño mediano y Osito era pequeño.
 
 problema
+En la cocina había una mesa con tres tazas de avena: 
+una grande, una mediana y una pequeña. Ricitos de Oro 
+tenía un gran apetito y la avena se veía deliciosa. 
+Primero, probó la avena de la taza grande, pero la avena 
+estaba muy fría y no le gustó. Luego, probó la avena de la 
+taza mediana, pero la avena estaba muy caliente y tampoco 
+le gustó. Por último, probó la avena de la taza pequeña y esta vez la avena no estaba ni fría ni caliente, ¡estaba perfecta! La avena estaba tan deliciosa que se la comió toda sin dejar ni un poquito.
 
 desenlace
 
